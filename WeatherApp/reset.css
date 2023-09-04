@@ -1,0 +1,27 @@
+input, form {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+    background-color: transparent;
+  }
+
+  ul, ul li {
+	list-style: none;
+    padding: 0px;
+	margin: 0px;
+}
+
+*::-webkit-scrollbar {
+    width: 0;
+  }
+  
+  button{
+    background: unset;
+    border: none;
+  }
+  
+  
