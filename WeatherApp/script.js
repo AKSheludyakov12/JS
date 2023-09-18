@@ -1,5 +1,5 @@
 const apiKey = "f640eab122354f39be692227232108";
-const url = "http://api.weatherapi.com/v1/";
+const url = "https://api.weatherapi.com/v1/";
 const link =
   "http://api.weatherapi.com/v1/forecast.json?key=f640eab122354f39be692227232108&days=5&lang=ru";
 
